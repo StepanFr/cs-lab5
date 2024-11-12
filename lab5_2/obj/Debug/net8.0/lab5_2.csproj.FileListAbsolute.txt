@@ -1,0 +1,14 @@
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.AssemblyInfoInputs.cache
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.AssemblyInfo.cs
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\stepa\Documents\code\lab5\lab5_2\bin\Debug\net8.0\lab5_2.exe
+C:\Users\stepa\Documents\code\lab5\lab5_2\bin\Debug\net8.0\lab5_2.deps.json
+C:\Users\stepa\Documents\code\lab5\lab5_2\bin\Debug\net8.0\lab5_2.runtimeconfig.json
+C:\Users\stepa\Documents\code\lab5\lab5_2\bin\Debug\net8.0\lab5_2.dll
+C:\Users\stepa\Documents\code\lab5\lab5_2\bin\Debug\net8.0\lab5_2.pdb
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.dll
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\refint\lab5_2.dll
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.pdb
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\lab5_2.genruntimeconfig.cache
+C:\Users\stepa\Documents\code\lab5\lab5_2\obj\Debug\net8.0\ref\lab5_2.dll
